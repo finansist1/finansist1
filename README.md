@@ -1,26 +1,26 @@
-## Hi...
+<h3 align="center">finansist1</h3>
 
-<h3 align="center">👋 Привет</h3>
+###
 
-### Обо мне
-- 📍 Изучаю современный стек веб-разработки.
-- 🧠 Интересуюсь **Python**, **бэкенд-разработкой** и **базами данных**.
-- 🎯 Цель: создавать чистые, эффективные и практичные решения.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=finansist1&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=en&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=finansist1&locale=en&hide_title=true&layout=compact&langs_count=6&theme=vue-dark&hide_border=true" height="150" alt="languages graph"  />
+</div>
 
-### Мой инструментарий
-<p align="left">
-    <img src="https://skillicons.dev/icons?i=python,django,fastapi,git,postgresql,sqlite,docker,linux" alt="tech stack" />
-</p>
+###
 
-### Контакты
-<p align="left">
+<img align="right" height="180" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif"  />
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=python,django,git,postgresql" height="30" alt="skills" />
+</div>
+
+###
+
+<div align="left">
   <a href="https://t.me/your_tg" target="_blank">
-    <img src="https://skillicons.dev/icons?i=telegram" alt="Telegram"/>
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
   </a>
-  <a href="mailto:your.email@mail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"/>
-  </a>
-</p>
-
-
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/financisst)
+</div>
