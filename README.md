@@ -1,14 +1,21 @@
-### `> whoami`
-Alexey - finansist1
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=1&pause=1&color=5D8FF3&center=true&vCenter=true&random=false&width=435&lines=Alexey+%7C+finansist1" alt="Animated Typing SVG" />
+</p>
 
-### `> techstack`
-<p align="left">
+<p align="center">
+  <samp>
+    Building functional and elegant solutions.
+  </samp>
+</p>
+
+<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,git,frappe" />
+    <img src="https://skillicons.dev/icons?i=python,git,frappe,postgresql,linux" />
   </a>
 </p>
 
-### `> connect`
-[![Telegram](https://skillicons.dev/icons?i=telegram)](https://t.me/financisst)
-
-<img align="right" height="180" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif"  />
+<p align="center">
+  <a href="https://t.me/financisst">
+    <img src="https://img.shields.io/badge/Telegram-@financisst-5D8FF3?style=flat-square&logo=telegram" alt="Telegram" />
+  </a>
+</p>
