@@ -4,7 +4,7 @@
 
 <p align="center">
   <samp>
-    Building functional and elegant solutions.
+    thats all
   </samp>
 </p>
 
