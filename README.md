@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <a href="https://t.me/YOUR_USERNAME">
+  <a href="https://t.me/financisst">
     <img
       src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"
       alt="Telegram"
