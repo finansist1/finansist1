@@ -18,6 +18,6 @@
 
 <p align="center">
   <a href="https://codewars.com">
-    <img src="https://codewars.com/badges/large" alt="Codewars Badge" />
+    <img src="https://shields.io" alt="Codewars" />
   </a>
 </p>
