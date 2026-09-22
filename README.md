@@ -15,3 +15,7 @@
     <img src="https://img.shields.io/badge/Telegram-@financisst-5D8FF3?style=flat-square&logo=telegram" alt="Telegram" />
   </a>
 </p>
+<p align="center">
+  <a href="![Codewars Stats](https://r2v.ch)">
+  </a>
+</p>
