@@ -25,7 +25,7 @@
 <p align="center">
   <a href="https://www.codewars.com/users/financ1st">
     <img
-      src="https://www.codewars.com/users/financ1st/badges"
+      src="https://www.codewars.com/users/financ1st/badges/micro"
       alt="Codewars"
     />
   </a>
